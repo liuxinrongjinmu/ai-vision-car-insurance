@@ -4,7 +4,7 @@ from openai import OpenAI
 import pandas as pd
 
 client = OpenAI(
-    api_key="sk-a95466ebade946af91ee2b5abc207f42", 
+    api_key="sk-xxxxx", 
     base_url="https://dashscope.aliyuncs.com/compatible-mode/v1",
 )
 
